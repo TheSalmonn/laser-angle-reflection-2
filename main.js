@@ -11,7 +11,7 @@ var mouseDown;
 var mouseDownPosition;
 
 var initialRay;
-var maxBounces = 200;
+var maxBounces = 6;
 
 var rayHue = 0;
 var hueShift = 0;
